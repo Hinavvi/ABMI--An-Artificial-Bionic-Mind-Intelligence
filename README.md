@@ -2,8 +2,8 @@
 
 > **The soul is computed, not prompted.**
 
-**Status:** Final parameter tuning. Full module source code will land in this repository within 3 days.
-This repository currently ships with the English-language demo below so you can verify the engine's capabilities before the source drop.
+**Status:** Full module source code released.
+*For Play, please refer to https://github.com/Hinavvi/ABMI-in-OpenCode-plugin.*
 
 **License:** Business Source License 1.1 (BSL-1.1)
 
