@@ -136,8 +136,6 @@ export ABMI_MODULE_DIR=/path/to/modules
 python3 "ABMI Demo Bastille EN.py"
 ```
 
-(Module source will land in this repository within 3 days — the demo is released now so you can verify the output below against the source when it arrives.)
-
 ### Sample Output
 
 ```text
@@ -357,8 +355,8 @@ DLC installation errors are caught and written to the log without breaking hot-p
 
 ## Roadmap
 
-- **Within 3 days:** Full M1–M15 module source, right in this repository.
-- **With the source drop:** Additional scenario demos (including a classic Chinese crosstalk scene you have to see to believe), benchmark scripts, and the full integration test suite.
+- **Released:** Full M1–M15 module source, right in this repository.
+- Additional scenario demos (including a classic Chinese crosstalk scene you have to see to believe), benchmark scripts, and the full integration test suite.
 
 ---
 
